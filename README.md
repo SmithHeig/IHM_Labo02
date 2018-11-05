@@ -2,13 +2,13 @@
 
 Auteurs: J.Châtillon, J.Smit
 
-![Interface](C:\Users\basilechatillon\Documents\jeremie\IHM\Labos\IHM_Labo02\Interface.PNG)
+![Interface](.\Interface.PNG)
 
 Choix d'implémentations:
 
 - Nous avons décidé de faire notre application en anglais car c'est le langage le plus parlé dans le monde.
 - Pour les messages d'informations, nous avons établis un code couleur:
-  - Rouge: Er.reur, ça ne fonctionne pas, on ne peut pas générer les résultats.
+  - Rouge: Erreur, ça ne fonctionne pas, on ne peut pas générer les résultats.
   - Orange: Warrning, ça fonctionne, on ne peut générer les résultats mais il se peut qu'il y ait de répécutions mineurs (par exemple, la remplacement d'un fichier existant)
   - Vert: OK, tout est bon.
 - Nous avons décidé de faire des messages d'erreurs cours et concis pour ne pas surcharger l'utilisateur.
